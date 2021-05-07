@@ -5,6 +5,7 @@ My name is **Seoyeon (Shirley) Park**, and I attend to Chadwick International Sc
 [![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/seoyeonpark0927/")](https://www.instagram.com/seoyeonpark0927/)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+[![Seoyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirleypark0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
