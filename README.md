@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-#### My name is Seoyeon (Shirley) Park, and I attend to Chadwick International School in Incheon, Songdo. I'm currently studying computer language and data science. 👩🏻‍💻
+My name is **Seoyeon (Shirley) Park**, and I attend to Chadwick International School in Incheon, Songdo. I'm currently studying **computer language and data science**. 👩🏻‍💻
 
 [![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/seoyeonpark0927/")](https://www.instagram.com/seoyeonpark0927/)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+
+
 <!--
 **shirleypark0/shirleypark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
